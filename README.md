@@ -1,19 +1,24 @@
-# Tanjima Abbas Pinke — Portfolio
+# Tanjima Abbas Pinke - Portfolio
 
-A modern, responsive personal portfolio site for Tanjima Abbas Pinke — a Computer Science
+> Modern Web Developer | Computer Science & Engineering Student
+
+🌐 **Live Portfolio:** https://tanjimapinke.github.io/pinke-portfolio/
+
+
+A modern, responsive personal portfolio site for Tanjima Abbas Pinke - a Computer Science
 & Engineering student and AI-assisted web developer. Built as a static site with a
 floating card visual language, full dark/light theming, and a strong focus on
 accessibility and performance.
 
 ## Features
 
-- Modern floating UI — layered cards, floating hero elements, pill navigation
+- Modern floating UI - layered cards, floating hero elements, pill navigation
 - Full dark/light theme system with `localStorage` persistence and OS preference detection
 - Responsive design, tested from small mobile up through large desktop
 - Interactive project showcase with graceful image fallbacks
-- Accessible navigation — semantic HTML, keyboard support, visible focus states, reduced-motion support
+- Accessible navigation - semantic HTML, keyboard support, visible focus states, reduced-motion support
 - AI-assisted development workflow, with every result personally reviewed, modified, and refined
-- Built for GitHub Pages deployment — no build step, no backend, no dependencies beyond the CDN fonts/icons
+- Built for GitHub Pages deployment - no build step, no backend, no dependencies beyond the CDN fonts/icons
 
 ## Technologies
 
@@ -74,9 +79,9 @@ enable GitHub Pages on the appropriate branch/folder in the repository settings.
 
 ## Notes on assets
 
-- `assets/images/pinke.png` — profile photo (add this yourself)
-- `assets/images/favicon.png` — small "TP" monogram icon used as the favicon
-- `assets/images/projects/*.png` — project screenshots; if a file is missing, the site
+- `assets/images/pinke.png` - profile photo (add this yourself)
+- `assets/images/favicon.png` - small "TP" monogram icon used as the favicon
+- `assets/images/projects/*.png` - project screenshots; if a file is missing, the site
   shows a clean placeholder instead of a broken image
-- `assets/cv.pdf` — optional local copy of the CV; the site currently links to the CV on
+- `assets/cv.pdf` - optional local copy of the CV; the site currently links to the CV on
   Google Drive
